@@ -1,5 +1,8 @@
-h1 {
+h1, h2 {
   color: #009de0;
+}
+body {
+  font-size: 11pt;
 }
 
 /*# sourceMappingURL=app.css.map */
